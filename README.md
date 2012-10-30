@@ -1,4 +1,1 @@
-riakon.github.com
-=================
-
-Website for RiakOn! service.
+Website for Riak On!

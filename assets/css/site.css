@@ -1,0 +1,45 @@
+/* Desktop Layout */
+body {
+  background: #E8E9E8;
+  color: #392126;
+}
+.container { 
+  /*background: #392126*/
+}
+
+.row { 
+  background: #E8E9E8;
+}
+
+
+h1 { 
+  font-family: 'Rammetto One', cursive;
+}
+
+/* Mobile Layout */
+@media handheld, only screen and (max-width: 767px) {
+  body {
+    font-family: 'Actor', sans-serif;
+  }
+}
+
+
+/* iPhone Hi-Res Layout */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*  .logo {
+    background: url(logo2x.jpg) no-repeat;
+    background-size: 212px 303px;
+  }*/
+
+}
+
+
+/* Misc */
+span.skype_pnh_container {
+    display: none !important;
+}
+
+span.skype_pnh_print_container {
+    display: inline !important;
+}
