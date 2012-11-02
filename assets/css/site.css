@@ -11,6 +11,13 @@ body {
   font-family: "Actor", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.footer { 
+  min-height: 50px;
+  background-image: url(../images/dark_Tire.png);
+  color: #F5E5D7;
+  padding-top:10px;
+  padding-left: 50px;
+}
 .container {
   margin-bottom: 20px;
   /*background: #392126*/
